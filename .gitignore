@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+
+# Eclipse (caso use no futuro)
+.project
+.classpath
+.settings/
+bin/
+
+# OS
+.DS_Store
+
